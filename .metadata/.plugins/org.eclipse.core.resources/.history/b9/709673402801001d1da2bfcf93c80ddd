@@ -1,0 +1,13 @@
+package com;
+
+public class BasicInfo implements CustomerDetails{
+
+	int id=1;
+	String name="Tops";
+	public void getBasicInformation() {
+		
+		
+		
+	}
+	
+}

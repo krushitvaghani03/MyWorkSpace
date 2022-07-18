@@ -1,0 +1,16 @@
+package com;
+
+import org.springframework.beans.factory.annotation.Qualifier;
+
+public class Loan implements BankAccount {
+
+	@Qualifier("basicInfo")
+	CustomerDetails customerDetails;
+	public void getBalance() {
+
+
+		System.out.println("This is Loan Account!!!");
+		customerDetails.getBasicInformation();
+	}
+
+}

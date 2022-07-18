@@ -1,0 +1,7 @@
+package com;
+
+public class BasicInfo implements CustomerDetails{
+
+	public void getBasicInfo()
+	
+}

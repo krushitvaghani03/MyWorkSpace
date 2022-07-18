@@ -1,0 +1,15 @@
+package com;
+
+public class BasicInfo implements CustomerDetails{
+
+	public void getBasicInfo()
+	{
+		
+	}
+
+	public void getBasicInformation() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}

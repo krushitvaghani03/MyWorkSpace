@@ -1,0 +1,23 @@
+package main;
+
+import model.Student;
+
+public class AddStudent {
+
+	public static void main(String[] args) {
+		
+		Student s = new Student();
+		s.setName("Tops");
+		s.setEmail("Tops@gmail.com");
+		s.setPass("Tops123");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}

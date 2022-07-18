@@ -1,0 +1,25 @@
+package com;
+
+import java.util.Scanner;
+
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+@ComponentScan("com")
+public class AppConfig {
+
+	Scanner sc = new Scanner(System.in);
+	
+	public BasicInfo setData()
+	{
+		System.out.println("Enter Id :");
+		int id = sc.nextInt();
+		
+		System.out.println("Enter Name :");
+		String name = sc.next();
+		
+		return new BasicInfo(id,name);
+	}
+	
+}

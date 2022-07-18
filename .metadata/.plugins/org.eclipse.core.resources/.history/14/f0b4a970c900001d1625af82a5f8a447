@@ -1,0 +1,12 @@
+package com;
+
+public class Loan implements BankAccount {
+
+	public void getBalance() {
+
+
+		System.out.println("THis is Loan Account!!!");
+
+	}
+
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- bean definitions here -->
+    
+<bean id="ques" class="model.Question" autowire="byType">
+<property name="qid" value="101"></property>
+<property name="qname" value="Type Of Array?"></property>
+</bean>
+
+<bean id="ans" class="model.Answer">
+<property name="aid" value="1"></property>
+<property name="aname">
+<list>
+<value>one</value>
+<value>Two</value>
+</list> 
+</property>
+</bean>
+
+</beans>

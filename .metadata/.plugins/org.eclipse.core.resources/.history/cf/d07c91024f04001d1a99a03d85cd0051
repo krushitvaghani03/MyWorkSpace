@@ -1,0 +1,10 @@
+package main;
+
+import model.Employee;
+
+public class AddData {
+public static void main(String[] args) {
+	
+	Employee e = new Employee();
+}
+}

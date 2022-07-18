@@ -1,0 +1,11 @@
+package model;
+
+import javax.persistence.*;
+
+@Entity
+@Table(name = "Emp")
+public class Employee
+{
+	int id;
+	String email;
+}

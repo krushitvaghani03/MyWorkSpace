@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;resources&apos; to &apos;OneTOOne/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;HIbernate_onetoone&apos;&#x0D;&#x0A;- Destination element: &apos;OneTOOne/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;HIbernate_onetoone/src/main/java/resources&apos;" description="Copy package" destination="=OneTOOne/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;resources" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1656513460482" version="1.0"/>
+</session>

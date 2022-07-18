@@ -1,0 +1,13 @@
+package com;
+
+public class LoanInfo implements CustomerDetails{
+
+	int amt;
+	
+	public void getBasicInformation() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	
+}
