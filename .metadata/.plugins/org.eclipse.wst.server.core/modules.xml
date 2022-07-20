@@ -7,4 +7,5 @@
   <module moduleId="org.eclipse.jst.jee.server:Servlet_Config" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:MVC" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.j2ee.server:Hib" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:Spring_MVC" serverId="Tomcat v9.0 Server at localhost"/>
 </modules>
