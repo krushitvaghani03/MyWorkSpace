@@ -1,4 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
     <typeInfo handle="=SpringAnnotation/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com{BankAccount.java[BankAccount" modifiers="513" timestamp="1657509962470"/>
+    <typeInfo handle="=Spring_MVC/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.service{UserService.java[UserService" modifiers="513" timestamp="1658762432176"/>
+    <typeInfo handle="=Spring_MVC/C:\/Users\/user\/jdk-18.0.1.1\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/18\/docs\/api\/=/=/module=/true=/=/maven.pomderived=/true=/&lt;java.nio.file.attribute(UserDefinedFileAttributeView.class[UserDefinedFileAttributeView" modifiers="1537" timestamp="1650920504000"/>
+    <typeInfo handle="=Spring_MVC/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.dao{UserDao.java[UserDao" modifiers="513" timestamp="1658762746295"/>
+    <typeInfo handle="=Spring_MVC/C:\/Users\/user\/.m2\/repository\/org\/hibernate\/hibernate-core\/5.5.4.Final\/hibernate-core-5.5.4.Final.jar=/maven.pomderived=/true=/=/org.eclipse.jst.component.archivename=/hibernate-core-5.5.4.Final.jar=/=/maven.groupId=/org.hibernate=/=/maven.artifactId=/hibernate-core=/=/maven.version=/5.5.4.Final=/=/maven.scope=/compile=/=/maven.pomderived=/true=/=/org.eclipse.jst.component.dependency=/\/WEB-INF\/lib=/&lt;org.hibernate.usertype(UserCollectionType.class[UserCollectionType" modifiers="1537" timestamp="1656043330090"/>
+    <typeInfo handle="=Springmvc1/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.service{StuService.java[StuService" modifiers="513" timestamp="1658808116263"/>
+    <typeInfo handle="=Springmvc1/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.dao{StuDao.java[StuDao" modifiers="513" timestamp="1658808271757"/>
+    <typeInfo handle="=E-Shop/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.userservice{UserService.java[UserService" modifiers="513" timestamp="1661322666564"/>
+    <typeInfo handle="=E-Shop/C:\/Users\/user\/jdk-18.0.1.1\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/18\/docs\/api\/=/=/module=/true=/=/maven.pomderived=/true=/&lt;java.nio.file.attribute(UserPrincipal.class[UserPrincipal" modifiers="1537" timestamp="1650920504000"/>
+    <typeInfo handle="=E-Shop/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.userdao{UserDao.java[UserDao" modifiers="513" timestamp="1661322640750"/>
+    <typeInfo handle="=E-Shop/F:\/apache-tomcat-9.0.64\/lib\/catalina.jar=/javadoc_location=/https:\/\/tomcat.apache.org\/tomcat-9.0-doc\/api\/=/=/owner.project.facets=/jst.web=/&lt;org.apache.catalina(User.class[User" modifiers="1537" timestamp="1654236526000"/>
+    <typeInfo handle="=E-Shop/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.categoryservice{categoryservice.java[categoryservice" modifiers="513" timestamp="1660094599198"/>
+    <typeInfo handle="=E-Shop/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.categorydao{CategoryDao.java[CategoryDao" modifiers="513" timestamp="1660094736246"/>
+    <typeInfo handle="=E-Shop/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.productdao{ProductDao.java[ProductDao" modifiers="513" timestamp="1660562639351"/>
+    <typeInfo handle="=E-Shop/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.productservice{ProductService.java[ProductService" modifiers="513" timestamp="1660562547234"/>
+    <typeInfo handle="=E-Shop/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.adminservice{AdminService.java[AdminService" modifiers="513" timestamp="1661146578069"/>
 </typeInfoHistroy>

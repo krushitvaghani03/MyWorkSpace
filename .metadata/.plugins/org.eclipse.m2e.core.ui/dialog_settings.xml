@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="F:\Hibernate\Springmvc1\src\main\java"/>
+			<item value="F:\Hibernate\Spring_MVC"/>
 			<item value="F:\Hibernate\Spring_CRUD"/>
 			<item value="F:\Hibernate\Hibernate_onetomany"/>
 			<item value="F:\Hibernate\Test"/>
@@ -32,13 +34,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="Tech.Spring_MVC"/>
+			<item value="tech.E_Shop"/>
 		</list>
 		<list key="groupId">
-			<item value="Tech"/>
+			<item value="tech"/>
 		</list>
 		<list key="artifactId">
-			<item value="Spring_MVC"/>
+			<item value="E-Shop"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -82,5 +84,17 @@
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
 	</section>
 </section>

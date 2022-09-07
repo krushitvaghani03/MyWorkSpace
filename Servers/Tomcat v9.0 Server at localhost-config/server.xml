@@ -152,7 +152,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="CRUD_operation" path="/CRUD_operation" reloadable="true" source="org.eclipse.jst.j2ee.server:CRUD_operation"/><Context docBase="Hibernate_CRUD" path="/Hibernate_CRUD" reloadable="true" source="org.eclipse.jst.j2ee.server:Hibernate_CRUD"/><Context docBase="Servlet_Config" path="/Servlet_Config" reloadable="true" source="org.eclipse.jst.jee.server:Servlet_Config"/><Context docBase="MVC" path="/MVC" reloadable="true" source="org.eclipse.jst.jee.server:MVC"/><Context docBase="WebProject" path="/WebProject" reloadable="true" source="org.eclipse.jst.jee.server:WebProject"/><Context docBase="Spring_MVC" path="/Spring_MVC" reloadable="true" source="org.eclipse.jst.j2ee.server:Spring_MVC"/></Host>
+      <Context docBase="Spring_MVC" path="/Spring_MVC" reloadable="true" source="org.eclipse.jst.j2ee.server:Spring_MVC"/><Context docBase="Springmvc1" path="/Springmvc1" reloadable="true" source="org.eclipse.jst.j2ee.server:Springmvc1"/><Context docBase="E-Shop" path="/E-Shop" reloadable="true" source="org.eclipse.jst.j2ee.server:E-Shop"/><Context docBase="Hibernate_CRUD" path="/Hibernate_CRUD" reloadable="true" source="org.eclipse.jst.j2ee.server:Hibernate_CRUD"/></Host>
     </Engine>
   </Service>
 </Server>

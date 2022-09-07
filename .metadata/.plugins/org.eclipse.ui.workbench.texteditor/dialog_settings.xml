@@ -6,14 +6,45 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
+		<item key="selection" value="shop-cart"/>
 		<list key="findhistory">
+			<item value="shop-cart"/>
+			<item value="categoryid"/>
+			<item value="Category"/>
+			<item value="assets/"/>
+			<item value="main.js"/>
+			<item value="css/"/>
+			<item value="Light table ahead"/>
+			<item value="light table ahead"/>
+			<item value="../assets/"/>
+			<item value="js/"/>
+			<item value="main"/>
+			<item value="min"/>
+			<item value="js/main"/>
+			<item value="user/vendor/"/>
+			<item value="user/mail/"/>
 		</list>
 		<list key="replacehistory">
+			<item value="Product"/>
+			<item value="main1.js"/>
+			<item value=""/>
+			<item value="mail/"/>
+			<item value="lib/"/>
+			<item value="img/"/>
+			<item value="js/"/>
+			<item value="css/"/>
+			<item value="vendor/"/>
+			<item value="user/lib/"/>
+			<item value="user/mail/"/>
+			<item value="user/img/"/>
+			<item value="user/css/"/>
+			<item value="user/js/"/>
+			<item value="user/"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="762"/>
-		<item key="DIALOG_Y_ORIGIN" value="222"/>
+		<item key="DIALOG_X_ORIGIN" value="1322"/>
+		<item key="DIALOG_Y_ORIGIN" value="211"/>
 		<item key="DIALOG_WIDTH" value="414"/>
 		<item key="DIALOG_HEIGHT" value="454"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
